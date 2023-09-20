@@ -1,1 +1,7 @@
 A DevOps class is an essential educational opportunity for aspiring professionals in the world of software development and IT operations.
+
+DevOps classes typically cover a wide range of topics, including version control, continuous integration and continuous delivery (CI/CD),
+containerization.
+
+In COMP 3104 , we will gain hands-on experience with popular DevOps tools like Git, Jenkins, Docker, and Kubernetes, enabling them to streamline
+development processes, enhance collaboration between development and operations teams, and deploy software more reliably and efficiently
