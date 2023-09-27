@@ -6,3 +6,11 @@ Recommended Resources:
 3. https://docker.com
 4. https://kubernetes.io
 5. https://www.sonarqube.org
+
+The course contains:
+
+- Lab exercise
+- Lecture Quizzes
+- Assignment (Individual & Group)
+- Midterm Exam
+- Final Exam
