@@ -1,0 +1,15 @@
+Course Description:
+
+The COMP 3104 course at George Brown College is tailored to equip students with fundamental knowledge and skills essential for a career in DevOps. The course delves into core concepts of DevOps culture, principles, and practices, emphasizing the collaboration between software development and operations teams.
+
+Key Learning Outcomes:
+
+Upon completion of this course, students will be able to:
+
+Understand the core principles and practices of DevOps.
+Utilize tools and technologies used in a DevOps environment.
+Implement Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
+Understand and apply automation practices to improve efficiency and quality.
+Foster a collaborative environment between development and operations teams.
+Analyze and solve problems using a DevOps approach.
+Understand the importance of monitoring, logging, and feedback loops in a DevOps culture.
