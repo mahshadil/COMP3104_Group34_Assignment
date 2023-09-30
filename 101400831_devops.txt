@@ -42,3 +42,18 @@ Collaboration and Communication:
 
 Fostering a collaborative culture
 Communication tools and practices in a DevOps environment
+
+Assessment Methods:
+
+Quizzes and Exams: 40%
+Hands-on Projects: 40%
+Participation and Discussion: 20%
+Textbooks and Reference Material:
+
+"The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations" by Gene Kim, Patrick Debois, John Willis, and Jez Humble.
+"Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations" by Nicole Forsgren, Jez Humble, and Gene Kim.
+Prerequisites:
+
+Basic understanding of software development and operations principles is recommended before enrolling in this course.
+
+
