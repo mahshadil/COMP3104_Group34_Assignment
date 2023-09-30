@@ -1,0 +1,59 @@
+Course Description:
+
+The COMP 3104 course at George Brown College is tailored to equip students with fundamental knowledge and skills essential for a career in DevOps. The course delves into core concepts of DevOps culture, principles, and practices, emphasizing the collaboration between software development and operations teams.
+
+Key Learning Outcomes:
+
+Upon completion of this course, students will be able to:
+
+Understand the core principles and practices of DevOps.
+Utilize tools and technologies used in a DevOps environment.
+Implement Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
+Understand and apply automation practices to improve efficiency and quality.
+Foster a collaborative environment between development and operations teams.
+Analyze and solve problems using a DevOps approach.
+Understand the importance of monitoring, logging, and feedback loops in a DevOps culture.
+
+Course Modules:
+
+Introduction to DevOps:
+
+History and evolution of DevOps
+Core principles of DevOps
+The DevOps Lifecycle
+Tools and Technologies:
+
+Source Control (e.g., Git, SVN)
+Continuous Integration tools (e.g., Jenkins, Travis CI)
+Deployment automation (e.g., Ansible, Docker)
+Continuous Integration and Continuous Deployment (CI/CD):
+
+Building CI/CD pipelines
+Automated testing and deployment
+Automation and Efficiency:
+
+Scripting and automation tools
+Infrastructure as Code (IaC)
+Monitoring, Logging, and Feedback Loops:
+
+Monitoring tools and practices
+Logging and analytics
+Collaboration and Communication:
+
+Fostering a collaborative culture
+Communication tools and practices in a DevOps environment
+
+Assessment Methods:
+
+Quizzes and Exams: 40%
+Hands-on Projects: 40%
+Participation and Discussion: 20%
+Textbooks and Reference Material:
+
+"The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations" by Gene Kim, Patrick Debois, John Willis, and Jez Humble.
+"Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations" by Nicole Forsgren, Jez Humble, and Gene Kim.
+Prerequisites:
+
+Basic understanding of software development and operations principles is recommended before enrolling in this course.
+
+
